@@ -34,7 +34,7 @@ setComment("");
 
 return (
     <div className="max-w-xl mx-auto p-4 bg-white shadow-md rounded-lg border-2 border-gray-200 border-opacity-60 my-[12%] " id="comment1">
-        <h2 className="text-2xl font-bold mb-4 text-yellow-700">Add A Comment </h2>
+        <h2 className="text-2xl font-bold mb-4 text-yellow-700">Add Your Comments </h2>
         
         <form onSubmit={handleSubmit} className="mb-4 ">
             <textarea
@@ -45,7 +45,7 @@ return (
             placeholder="Write a comment..."/>
             <button
             type="submit"
-            className="mt-2 w-full p-2 bg-green-600 text-white rounded-md  border-2
+            className="mt-2 w-full p-2 bg-yellow-500 hover:bg-yellow-600 text-white rounded-md  border-2
             focus:outline-none">
                 Submit Comment
                 </button>

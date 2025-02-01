@@ -25,7 +25,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ id, title, description, image
       <h2 className="text-lg font-semibold mt-4">{title}</h2>
       <p className="text-sm text-gray-600 mt-2 line-clamp-3">{description}</p>
       
-        <center><button className="mt-4 px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600">
+        <center><button className="mt-4 px-4 py-2 bg-yellow-500 text-white rounded-lg hover:bg-yellow-600">
           Read More...
         </button>
         </center>
