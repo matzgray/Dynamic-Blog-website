@@ -19,8 +19,8 @@ const ProductDetails = () => {
       image: "/images/travel2.jpg",
     },
     3: {
-      title: "The Ultimate Road Trip Guide: Tips for an Epic Journey",
-      description: "Traveling is a gateway to discovering new cultures,meeting people from diverse backgrounds, and experiencing breathtaking landscapes. Each trip offers a chance to break free from daily routines and immerse oneself in the beauty of the unknown. Whether you're hiking through the mountains, relaxing on a beach, or wandering the vibrant streets of a new city, travel opens up new horizons. The memories created during a journey often last a lifetime, inspiring new perspectives and deepening appreciation for the world around us. From savoring local cuisine to exploring hidden gems, each adventure brings its own unique story. Traveling not only rejuvenates the soul but also teaches valuable lessons in patience, adaptability, and resilience. The world is full of wonders waiting to be explored, and every journey is a step closer to understanding it better. So pack your bags and embark on an adventure that will change your life forever!.",
+      title: "The Ultimate Road Trip Guide",
+      description: "Road trips offer the perfect mix of adventure, freedom, and unforgettable memories.Plan your route in advance, but leave room for spontaneous detours.Ensure your vehicle is road-trip ready—check the tires, oil, and brakes.Pack essentials like snacks, water, a first-aid kit, and a roadside emergency kit.Create a killer playlist or download podcasts to keep entertained on long drives.Use navigation apps like Google Maps or Waze, but carry a physical map as a backup.Take scenic routes to enjoy breathtaking landscapes and hidden gems.Stop at local diners, roadside attractions, and quirky landmarks for a unique experience.Follow the  rule—respect nature and clean up after yourself.Switch drivers if possible to avoid fatigue and stay refreshed.Capture moments with photos, but dont forget to enjoy the journey in real time.A great road trip is not just about the destination—its about the adventure along the way!",
       image: "/images/travel3.jpg",
     },
     4: {
